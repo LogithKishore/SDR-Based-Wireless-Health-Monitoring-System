@@ -1,0 +1,6 @@
+ESP32
+MAX30100 Sensor
+DHT11 Sensor
+Arduino IDE
+PubSubClient
+ThingsBoard

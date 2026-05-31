@@ -1,0 +1,1 @@
+Real-time wireless patient monitoring system using ESP32, MAX30100 and DHT11 with ThingsBoard cloud integration.
